@@ -10,13 +10,13 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
     {
         private List<T> events = new List<T>();
 
-        // Add an event to the repository
+        // Menambah Event
         public void Add(T e)
         {
             events.Add(e);
         }
 
-        // Search for events by a given property and value
+        // Search Event
         public List<T> Search(Func<T, bool> predicate)
         {
             return events.Where(predicate).ToList();

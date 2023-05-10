@@ -21,7 +21,7 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             this.descriptionFunc = descriptionFunc;
         }
 
-        // Display a list of events to the user
+        // Menampilkan List Event
         public void DisplayEvents(List<T> events)
         {
             foreach (T e in events)
@@ -30,14 +30,14 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             }
         }
 
-        // Prompt the user to enter a search query
+        // Meminta Input User
         public string PromptForQuery()
         {
-            Console.Write("Enter search query: ");
+            Console.Write("Masukkan Nama Event: ");
             return Console.ReadLine();
         }
 
-        // Run the UI loop
+        // Run 
         public void Run()
         {
             while (true)
