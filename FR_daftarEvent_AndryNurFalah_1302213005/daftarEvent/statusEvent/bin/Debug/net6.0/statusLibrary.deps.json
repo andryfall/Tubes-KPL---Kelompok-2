@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "daftarEvent/1.0.0": {
-        "dependencies": {
-          "statusLibrary": "1.0.0"
-        },
-        "runtime": {
-          "daftarEvent.dll": {}
-        }
-      },
       "statusLibrary/1.0.0": {
         "runtime": {
           "statusLibrary.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "daftarEvent/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "statusLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,

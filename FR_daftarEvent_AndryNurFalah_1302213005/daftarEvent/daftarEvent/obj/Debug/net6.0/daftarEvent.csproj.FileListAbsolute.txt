@@ -8,11 +8,11 @@ C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFa
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\daftarEvent.runtimeconfig.json
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\daftarEvent.dll
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\daftarEvent.pdb
-C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\daftarEventLibraries.dll
-C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\daftarEventLibraries.pdb
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\daftarEvent.csproj.CopyComplete
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\daftarEvent.dll
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\refint\daftarEvent.dll
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\daftarEvent.pdb
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\daftarEvent.genruntimeconfig.cache
 C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\obj\Debug\net6.0\ref\daftarEvent.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\statusLibrary.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\FR_daftarEvent_AndryNurFalah_1302213005\daftarEvent\daftarEvent\bin\Debug\net6.0\statusLibrary.pdb

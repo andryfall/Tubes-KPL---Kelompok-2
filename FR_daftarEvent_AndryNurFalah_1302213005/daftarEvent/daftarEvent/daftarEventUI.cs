@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using statusLibrary;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using System.Linq;
@@ -22,13 +24,14 @@ namespace daftarEvent
         {
             for (int i = 0; i < l.Count; i++)
             {
-                Console.WriteLine((i + 1) + ") " + l[i].Title);
+                Console.WriteLine((i + 1) + ") " + l[i].Title + " - " + status.statusEvent(l[i].StartDate, l[i].EndDate));
                 Console.WriteLine(l[i].Description);
                 Console.WriteLine("Waktu Mulai    : " + l[i].StartDate);
                 Console.WriteLine("Waktu Berakhir : " + l[i].EndDate);
                 Console.WriteLine(" ");
             }
         }
+
 
         public void runApp()
         {
