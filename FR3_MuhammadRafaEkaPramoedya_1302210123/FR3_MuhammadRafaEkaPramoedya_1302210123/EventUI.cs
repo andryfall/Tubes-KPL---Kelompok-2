@@ -15,6 +15,23 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
 
         public EventUI(EventRepos<T> repository, Func<T, string> titleFunc, Func<T, DateTime> startDateFunc, Func<T, string> descriptionFunc)
         {
+            if (repository == null)
+            {
+                throw new ArgumentNullException(nameof(repository), "Repository tidak boleh null");
+            }
+            if (titleFunc == null)
+            {
+                throw new ArgumentNullException(nameof(titleFunc), "Title tidak boleh null");
+            }
+            if (startDateFunc == null)
+            {
+                throw new ArgumentNullException(nameof(startDateFunc), "Start date tidak boleh null");
+            }
+            if (descriptionFunc == null)
+            {
+                throw new ArgumentNullException(nameof(descriptionFunc), "Description tidak boleh null");
+            }
+
             this.repository = repository;
             this.titleFunc = titleFunc;
             this.startDateFunc = startDateFunc;
@@ -34,16 +51,26 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
         public string PromptForQuery()
         {
             Console.Write("Masukkan Nama Event: ");
-            return Console.ReadLine();
+            string query = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(query))
+            {
+                throw new ArgumentException("Query tidak boleh kosong", nameof(query));
+            }
+
+            return query;
         }
 
         // Run 
         public void Run()
         {
+            List<T> events = repository.Search(e => true); // search for all events
+            DisplayEvents(events);
+
             while (true)
             {
                 string query = PromptForQuery();
-                List<T> events = repository.Search(e => titleFunc(e).Contains(query) || descriptionFunc(e).Contains(query));
+                events = repository.Search(e => titleFunc(e).Contains(query) || descriptionFunc(e).Contains(query));
                 DisplayEvents(events);
             }
         }

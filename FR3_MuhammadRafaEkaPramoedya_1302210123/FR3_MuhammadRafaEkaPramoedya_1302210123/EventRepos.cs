@@ -13,6 +13,12 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
         // Menambah Event
         public void Add(T e)
         {
+            if (e == null)
+            {
+                throw new ArgumentNullException(nameof(e), "Event cannot be null");
+            }
+
+            // add event to the list
             events.Add(e);
         }
 
