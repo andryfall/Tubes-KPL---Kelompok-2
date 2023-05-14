@@ -25,7 +25,7 @@ namespace UnitTestDaftarEvent
 
         }
         [TestMethod]
-        public void addEventFromMyEvents()
+        public void addEventToMyEvents()
         {
             Event a = new Event("Acara 1", waktu = now.AddHours(-6), waktu = now.AddHours(-4), "Des Acara 1");
 
@@ -37,6 +37,7 @@ namespace UnitTestDaftarEvent
 
             d.addToMyEvents(1);
 
+            CollectionAssert.Contains(d.myEvents, a);
             Assert.AreEqual(d.myEvents[0], a);
 
         }
