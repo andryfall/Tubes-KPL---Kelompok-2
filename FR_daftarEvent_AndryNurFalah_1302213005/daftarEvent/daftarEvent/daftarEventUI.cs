@@ -1,7 +1,8 @@
 ﻿
-using statusLibrary;
+using daftarEventLibrary;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Diagnostics.Tracing;
 using System.Linq;
 using System.Text;
@@ -9,10 +10,12 @@ using System.Threading.Tasks;
 
 namespace daftarEvent
 {
-    internal class daftarEventUI
+    public class daftarEventUI
     {
         public List<Event> myEvents = new List<Event>();
+        
         public List<Event> Events;
+
         public daftarEventUI(eventList a) {
             Events = a.events;
         }
@@ -33,6 +36,159 @@ namespace daftarEvent
         }
 
 
+        public List<Event> removeEventsLewat(List<Event> l)
+        {
+            List<Event> t = new List<Event>();
+            foreach (Event e in Events)
+            {
+                if(status.statusEvent(e.StartDate, e.EndDate) != "Berakhir" && status.statusEvent(e.StartDate, e.EndDate) != "Sedang Berlangsung")
+                {
+                    t.Add(e);
+                }
+            }
+            return t;
+        }
+
+        public void sortByStartDate(List<Event> l)
+        {
+            List<Event> t = l;
+            t.Sort((x, y) => x.StartDate.CompareTo(y.StartDate));
+            printAllList(t);
+        }
+
+        public string AskForInput()
+        {
+            string input = null;
+            bool inValid = true;
+            while(inValid)
+            {
+                try
+                {
+                    input = Console.ReadLine();
+                    if (string.IsNullOrWhiteSpace(input))
+                    {
+                        inValid = true;
+                        throw new Exception();
+                    }
+                    inValid = false;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Input tidak boleh kosong");
+                }
+            }
+
+            return input;
+        }
+
+        public int addEvent()
+        {
+            Console.WriteLine("Daftar event ke : ");
+
+            String input;
+            int intInput = 0;
+            bool inValid = true;
+
+            while (inValid)
+            {
+                try
+                {
+                    input = AskForInput();
+                    intInput = int.Parse(input);
+                    if (intInput <= 0 || intInput > Events.Count)
+                    {
+                        throw new Exception();
+                    }
+                    inValid = false;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Input tidak valid");
+                }
+
+
+            }
+
+            if (myEvents.Contains(Events[intInput - 1]))
+            {
+                return -1;
+            }
+            else
+            {
+                return intInput;
+            }
+        }
+
+        public void addToMyEvents(int x)
+        {
+            if(x == -1)
+            {
+                Console.WriteLine("Anda sudah mendaftar pada event ini sebelumnya");
+            }
+            else
+            {
+                myEvents.Add(Events[x - 1]);
+                Console.WriteLine("Pendaftaran berhasil");
+            }
+        }
+
+        public int deleteEvent()
+        {
+            if (myEvents.Count == 0)
+            {
+                return -1;
+            }
+            else
+            {
+                sortByStartDate(myEvents);
+
+                Console.WriteLine("Hapus event ke : ");
+                String input1;
+                int intInput1 = 0;
+                bool inValid = true;
+
+                while (inValid)
+                {
+                    try
+                    {
+                        input1 = AskForInput();
+                        intInput1 = int.Parse(input1);
+
+                        if (intInput1 <= 0 || intInput1 > myEvents.Count)
+                        {
+                            throw new Exception();
+                        }
+
+                        inValid = false;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Input tidak valid");
+                    }
+                }
+
+                return intInput1;
+
+                
+            }
+        }
+
+        public void deleteFromMyEvents(int x)
+        {
+            if(x == -1)
+            {
+                Console.WriteLine("Anda Belum Mendaftar Pada Event");
+            }
+            else
+            {
+                myEvents.Remove(myEvents[x - 1]);
+
+                Console.WriteLine("Penghapusan berhasil");
+
+                Console.WriteLine();
+            }
+        }
+
         public void runApp()
         {
 
@@ -45,7 +201,16 @@ namespace daftarEvent
                     case State.Main:
                         Console.WriteLine("==========Halaman Pendaftaran Event==========");
 
-                        printAllList(Events);
+                        if (Events.Count == 0)
+                        {
+                            Console.WriteLine("Tidak ada event yang tersedia");
+                        }
+                        else
+                        {
+                            Events = removeEventsLewat(Events);
+                            sortByStartDate(Events);
+                        }
+                        
 
                         Console.WriteLine("=======[My Events] - [Add] - [Exit]=======");
                         Console.WriteLine();
@@ -54,7 +219,7 @@ namespace daftarEvent
                         Console.WriteLine("3 = Exit");
                         Console.WriteLine("Pilih Menu : ");
 
-                        tombol = Console.ReadLine();
+                        tombol = AskForInput();
                         if (tombol == "1")
                         {
                             state = State.myEvents;
@@ -66,16 +231,21 @@ namespace daftarEvent
                         }else if (tombol == "3")
                         {
                             state = State.Exit;
-                        }else
-                        {
-                            state = State.Main;
                         }
                         break;
 
                     case State.myEvents:
                         Console.WriteLine("==============Halaman My Events==============");
 
-                        printAllList(myEvents);
+                        if (myEvents.Count == 0)
+                        {
+                            Console.WriteLine("Anda Belum Mendaftar Pada Event");
+                        }
+                        else
+                        {
+                            sortByStartDate(myEvents);
+                        }
+                        
 
                         Console.WriteLine("==========[Main] - [Delete] - [Exit]=========");
                         Console.WriteLine();
@@ -84,8 +254,7 @@ namespace daftarEvent
                         Console.WriteLine("3 = Exit");
                         Console.WriteLine("Pilih Menu : ");
 
-                        tombol = Console.ReadLine();
-
+                        tombol = AskForInput();
                         if (tombol == "1")
                         {
                             state = State.Main;
@@ -100,25 +269,23 @@ namespace daftarEvent
                         {
                             state = State.Exit;
                         }
-                        else
-                        {
-                            state = State.myEvents;
-                        }
                         break;
 
                     case State.addEvent:
                         Console.WriteLine("==========Halaman Pendaftaran Event==========");
 
-                        printAllList(Events);
+                        if (Events.Count == 0)
+                        {
+                            Console.WriteLine("Tidak ada event yang tersedia");
+                        }
+                        else
+                        {
+                            Events = removeEventsLewat(Events);
+                            sortByStartDate(Events);
+                        }
 
-                        Console.WriteLine("Daftar event ke : ");
-                        String input = Console.ReadLine();
+                        addToMyEvents(addEvent());
 
-                        int intInput = int.Parse(input);
-
-                        myEvents.Add(Events[intInput-1]);
-
-                        Console.WriteLine("Pendaftaran berhasil");
                         Console.WriteLine();
                         Console.WriteLine("=======[My Events] - [Add] - [Exit]=======");
                         Console.WriteLine();
@@ -142,26 +309,13 @@ namespace daftarEvent
                         {
                             state = State.Exit;
                         }
-                        else
-                        {
-                            state = State.Main;
-                        }
                         break;
                     case State.deleteEvent:
                         Console.WriteLine("==============Halaman My Events==============");
 
 
-                        printAllList(myEvents);
-
-                        Console.WriteLine("Hapus event ke : ");
-                        String input1 = Console.ReadLine();
-
-                        int intInput1 = int.Parse(input1);
-
-                        myEvents.Remove(myEvents[intInput1-1]);
-
-                        Console.WriteLine("Penghapusan berhasil");
-                        Console.WriteLine();
+                        deleteFromMyEvents(deleteEvent());
+                        
                         Console.WriteLine("=======[My Events] - [Delete] - [Exit]=======");
                         Console.WriteLine();
                         Console.WriteLine("1 = myEvent");
@@ -169,7 +323,7 @@ namespace daftarEvent
                         Console.WriteLine("3 = Exit");
                         Console.WriteLine("Pilih Menu : ");
 
-                        tombol = Console.ReadLine();
+                        tombol = AskForInput();
 
                         if (tombol == "1")
                         {
@@ -185,13 +339,10 @@ namespace daftarEvent
                         {
                             state = State.Exit;
                         }
-                        else
-                        {
-                            state = State.myEvents;
-                        }
                         break;
                 }
             }
+            Console.WriteLine("Anda keluar dari program");
 
         }
     }

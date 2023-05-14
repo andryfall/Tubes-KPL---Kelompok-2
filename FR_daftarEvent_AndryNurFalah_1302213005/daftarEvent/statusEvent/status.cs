@@ -1,4 +1,4 @@
-﻿namespace statusLibrary
+﻿namespace daftarEventLibrary
 {
     public static class status
     {
