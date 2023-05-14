@@ -15,7 +15,7 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
         {
             if (e == null)
             {
-                throw new ArgumentNullException(nameof(e), "Event cannot be null");
+                throw new ArgumentNullException(nameof(e), "Event tidak boleh null");
             }
 
             // add event to the list
