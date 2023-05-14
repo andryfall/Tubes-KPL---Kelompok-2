@@ -17,8 +17,6 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             {
                 throw new ArgumentNullException(nameof(e), "Event tidak boleh null");
             }
-
-            // add event to the list
             events.Add(e);
         }
 
