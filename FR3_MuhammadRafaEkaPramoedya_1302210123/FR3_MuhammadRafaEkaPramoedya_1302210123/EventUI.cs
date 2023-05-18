@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Text.Json;
+using System.Collections;
 
 namespace FR3_MuhammadRafaEkaPramoedya_1302210123
 {
@@ -13,23 +16,26 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
         private Func<T, DateTime> startDateFunc;
         private Func<T, string> descriptionFunc;
 
+        private bool searchByTitle;
+        private bool searchByDescription;
+
         public EventUI(EventRepos<T> repository, Func<T, string> titleFunc, Func<T, DateTime> startDateFunc, Func<T, string> descriptionFunc)
         {
             if (repository == null)
             {
-                throw new ArgumentNullException(nameof(repository), "Repository tidak boleh null");
+                throw new ArgumentNullException(nameof(repository), "Repository tidak boleh kosong");
             }
             if (titleFunc == null)
             {
-                throw new ArgumentNullException(nameof(titleFunc), "Title tidak boleh null");
+                throw new ArgumentNullException(nameof(titleFunc), "Judul tidak boleh kosong");
             }
             if (startDateFunc == null)
             {
-                throw new ArgumentNullException(nameof(startDateFunc), "Start date tidak boleh null");
+                throw new ArgumentNullException(nameof(startDateFunc), "Start date tidak boleh kosong");
             }
             if (descriptionFunc == null)
             {
-                throw new ArgumentNullException(nameof(descriptionFunc), "Description tidak boleh null");
+                throw new ArgumentNullException(nameof(descriptionFunc), "Deskripsi ftidak boleh kosong");
             }
 
             this.repository = repository;
@@ -38,7 +44,35 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             this.descriptionFunc = descriptionFunc;
         }
 
-        // Menampilkan List Event
+        public EventUI()
+        {
+            ReadConfigFile();
+        }
+
+        private void ReadConfigFile()
+        {
+            string configFile = "EventConfig.json";
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, configFile);
+
+            if (File.Exists(filePath))
+            {
+                string json = File.ReadAllText(filePath);
+                var config = JsonSerializer.Deserialize<EventUIConfig>(json);
+
+                if (config != null)
+                {
+                    searchByTitle = config.SearchByTitle;
+                    searchByDescription = config.SearchByDescription;
+                }
+            }
+            else
+            {
+                // Default configuration
+                searchByTitle = true;
+                searchByDescription = true;
+            }
+        }
+
         public void DisplayEvents(List<T> events)
         {
             foreach (T e in events)
@@ -47,10 +81,9 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             }
         }
 
-        // Meminta Input User
-        public string PromptForQuery()
+        public string Input()
         {
-            Console.Write("Masukkan Nama Event: ");
+            Console.Write("Masukkan nama event: ");
             string query = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(query))
@@ -61,16 +94,33 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             return query;
         }
 
-        // Run 
         public void Run()
         {
-            List<T> events = repository.Search(e => true); // search for all events
+            List<T> events = repository.Search(e => true);
             DisplayEvents(events);
 
             while (true)
             {
-                string query = PromptForQuery();
-                events = repository.Search(e => titleFunc(e).Contains(query) || descriptionFunc(e).Contains(query));
+                Console.WriteLine("1. Cari Judul");
+                Console.WriteLine("2. Cari Deskripsi");
+                Console.WriteLine("3. Cari judul / desk");
+                Console.WriteLine("4. Keluar");
+
+                Console.Write("PIlih 1-3: ");
+                string choice = Console.ReadLine();
+
+                if (choice == "4")
+                    break;
+
+                string query = Input();
+
+                bool searchByTitle = choice == "1" || choice == "3";
+                bool searchByDescription = choice == "2" || choice == "3";
+
+                events = repository.Search(e =>
+                    (searchByTitle && titleFunc(e).Contains(query)) ||
+                    (searchByDescription && descriptionFunc(e).Contains(query)));
+
                 DisplayEvents(events);
             }
         }
