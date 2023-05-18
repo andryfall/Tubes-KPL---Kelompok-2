@@ -20,7 +20,7 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             events.Add(e);
         }
 
-        // Search Event berdasarkan predicate
+        // Search Event berdasarkan Input
         public List<T> Search(Func<T, bool> predicate)
         {
             return events.Where(predicate).ToList();
