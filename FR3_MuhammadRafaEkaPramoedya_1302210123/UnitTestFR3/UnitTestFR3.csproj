@@ -15,4 +15,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FR3_MuhammadRafaEkaPramoedya_1302210123\FR3_MuhammadRafaEkaPramoedya_1302210123.csproj" />
+  </ItemGroup>
+
 </Project>

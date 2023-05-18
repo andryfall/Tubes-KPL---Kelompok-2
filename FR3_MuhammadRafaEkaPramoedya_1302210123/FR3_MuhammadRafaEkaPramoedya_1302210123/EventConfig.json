@@ -1,0 +1,6 @@
+{
+  "EventUIConfig": {
+    "SearchByTitle": true,
+    "SearchByDescription": true
+  }
+}

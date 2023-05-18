@@ -17,12 +17,10 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             {
                 throw new ArgumentNullException(nameof(e), "Event tidak boleh null");
             }
-
-            // add event to the list
             events.Add(e);
         }
 
-        // Search Event
+        // Search Event berdasarkan predicate
         public List<T> Search(Func<T, bool> predicate)
         {
             return events.Where(predicate).ToList();
