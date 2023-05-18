@@ -88,7 +88,6 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
 
         if (searchByTitle != App.config.SearchByTitle || searchByDescription != App.config.SearchByDescription)
         {
-            // Update the configuration based on user's choice
             App.config.SearchByTitle = searchByTitle;
             App.config.SearchByDescription = searchByDescription;
             App.WriteNewConfigFile();
