@@ -20,7 +20,7 @@ class Program
 
         try
         {
-            EventUI<Event> uiWithDelegate = new EventUI<Event>(repository, e => e.Title, e => e.StartDate, e => e.Description);
+            EventUI<Event> uiTest = new EventUI<Event>(repository, e => e.Title, e => e.StartDate, e => e.Description);
         }
         catch (ArgumentNullException ex)
         {
