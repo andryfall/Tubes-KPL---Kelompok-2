@@ -11,5 +11,6 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
         public string Title { get; set; }
         public DateTime StartDate { get; set; }
         public string Description { get; set; }
+        public string DisplayText => $"{Title} - {Description}";
     }
 }

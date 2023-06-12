@@ -11,7 +11,7 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
     {
         public EventUIConfig config;
 
-        private const string filelocation = "D:\\TPMOD7\\Tubes-KPL---Kelompok-2\\FR3_MuhammadRafaEkaPramoedya_1302210123\\FR3_MuhammadRafaEkaPramoedya_1302210123\\";
+        private const string filelocation = "D:\\FR3_MuhammadRafaEkaPramoedya_1302210123\\FR3_MuhammadRafaEkaPramoedya_1302210123\\";
         private const string filepath = filelocation + "EventConfig.json";
 
         public AppConfig()

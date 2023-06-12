@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GUI/1.0.0": {
+        "dependencies": {
+          "FR3_MuhammadRafaEkaPramoedya_1302210123": "1.0.0"
+        },
+        "runtime": {
+          "GUI.dll": {}
+        }
+      },
+      "FR3_MuhammadRafaEkaPramoedya_1302210123/1.0.0": {
+        "runtime": {
+          "FR3_MuhammadRafaEkaPramoedya_1302210123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FR3_MuhammadRafaEkaPramoedya_1302210123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

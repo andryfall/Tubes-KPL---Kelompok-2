@@ -99,8 +99,8 @@ namespace FR3_MuhammadRafaEkaPramoedya_1302210123
             (searchByDescription && descriptionFunc(e).Contains(query)));
 
         DisplayEvents(events);
-    }
-}
+              }
+        }
 
     }
 }
