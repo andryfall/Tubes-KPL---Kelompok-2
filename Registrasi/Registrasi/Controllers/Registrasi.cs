@@ -1,99 +1,72 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics.Contracts;
-using Microsoft.AspNetCore.Mvc;
+using System.Web.Http;
 
-namespace Registrasi.Controllers
+namespace testubes_kpl
 {
-    public class RegistrasiController : ControllerBase
+    public enum RegistrationStatus
     {
-        public List<User> users = new List<User>();
+        Success,
+        Failed,
+        UsernameExists,
+        PasswordExists
+    }
 
-        public void RegisterUser(User user)
+    public class RegistrationClass
+    {
+        private SimpleDB database;
+
+        public RegistrationClass()
         {
-            Contract.Requires(!string.IsNullOrEmpty(user.Username));
-            Contract.Requires(!string.IsNullOrEmpty(user.Email));
-            Contract.Requires(!string.IsNullOrEmpty(user.Password));
-
-            // Check if user already exists
-            Contract.Requires(!UserExists(user.Email));
-
-            // Add new user to user list
-            users.Add(user);
-            Console.WriteLine("User with email {0} registered successfully.", user.Email);
-
-            // Postconditions
-            Contract.Ensures(UserExists(user.Email));
+            database = new SimpleDB();
         }
 
-        public bool UserExists(string email)
+        public RegistrationStatus Register(string username, string password)
         {
-            return FindUserByEmail(email) != null;
-        }
-
-        public User FindUserByEmail(string email)
-        {
-            return users.Find(u => u.Email == email);
-        }
-
-        public Dictionary<string, Action<List<User>, User>> table = new Dictionary<string, Action<List<User>, User>>();
-
-        public Dictionary<string, Action<List<User>, User>> GetTable()
-        {
-            return table;
-        }
-
-        public void TambahUser(User user, Dictionary<string, Action<List<User>, User>> table)
-        {
-            Contract.Requires(table != null, "List Users cannot be null");
-            Contract.Requires(user != null, "User cannot be null");
-
-            // Check if user already exists
-            if (table.TryGetValue("add", out Action<List<User>, User> add))
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
-                // Call the 'add' action with the list of users and the new user
-                add(users, user);
-            }
-        }
-
-        [HttpPost]
-        public void TambahUserRil(User user)
-        {
-            Contract.Requires(user != null, "User cannot be null.");
-            Contract.Requires(!string.IsNullOrWhiteSpace(user.Username), "Username cannot be null or empty.");
-            Contract.Requires(!string.IsNullOrWhiteSpace(user.Password), "Password cannot be null or empty.");
-            Contract.Requires(!string.IsNullOrWhiteSpace(user.Email), "Email cannot be null or empty.");
-
-            Console.WriteLine("Masukan nama");
-            Console.WriteLine("masukan password");
-            Console.WriteLine("masukan email");
-
-            Console.WriteLine("Items Added To Inventory Are: "); // Outputs List in reverse order. (Recent input first).
-            for (int i = 0; i < 10; i++) // Continue For Loop until i is < the needed amount.
-            {
-                Console.WriteLine($"{i + 1}: Enter Item Name To Add To Inventory"); // Asks for user input into array.
-                user.Username = Console.ReadLine(); // User inputs value into field.
-                user.Password = Console.ReadLine();
-                user.Email = Console.ReadLine();
-                users.Add(user);
+                return RegistrationStatus.Failed;
             }
 
-            Dictionary<string, Action<List<User>, User>> table = new Dictionary<string, Action<List<User>, User>>();
-            RegisterUser(user);
-            TambahUser(user, table);
-        }
+            if (database.AddMahasiswa(username, password))
+            {
+                return RegistrationStatus.UsernameExists;
+            }
 
-        [HttpGet]
-        public IEnumerable<User> Get()
-        {
-            return users;
+            return database.Registrasi(username, password) == "Success"
+                ? RegistrationStatus.Success
+                : RegistrationStatus.Failed;
         }
     }
 
-    public class User
+    public class RegistrationController : ApiController
     {
-        public string Username { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        private RegistrationClass registration;
+
+        public RegistrationController()
+        {
+            registration = new RegistrationClass();
+        }
+
+        [HttpGet]
+        public IHttpActionResult Register(string username, string password)
+        {
+            RegistrationStatus status = registration.Register(username, password);
+
+            switch (status)
+            {
+                case RegistrationStatus.Success:
+                    return Ok("Registration successful");
+                case RegistrationStatus.Failed:
+                    return BadRequest("Registration failed");
+                case RegistrationStatus.UsernameExists:
+                    return BadRequest("Username already exists");
+                case RegistrationStatus.PasswordExists:
+                    return BadRequest("Password already exists");
+                default:
+                    return BadRequest("Unknown registration status");
+            }
+        }
     }
 }
