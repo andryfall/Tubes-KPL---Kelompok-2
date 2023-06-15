@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using RegistrationExample;
+using Registration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RegistrationExample.Tests
+namespace Registration.Tests
 {
     [TestClass()]
     public class ProgramTests

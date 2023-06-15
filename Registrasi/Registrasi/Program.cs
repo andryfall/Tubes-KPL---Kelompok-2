@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Http.Json;
 
-namespace RegistrationExample
+namespace Registration
 {
     public enum RegistrationType
     {

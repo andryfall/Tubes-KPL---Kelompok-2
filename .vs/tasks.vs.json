@@ -5,6 +5,16 @@
       "taskLabel": "task-Registrasi",
       "appliesTo": "Registrasi/Registrasi.sln",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Registrasi",
+      "appliesTo": "Registrasi/Registrasi.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-RegistrasiTestsregister",
+      "appliesTo": "Registrasi/RegistrasiTestsregister/RegistrasiTestsregister.csproj",
+      "type": "msbuild"
     }
   ]
 }
