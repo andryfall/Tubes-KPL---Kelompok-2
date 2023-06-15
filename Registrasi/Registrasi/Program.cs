@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Net.Http;
+using System.Diagnostics.Contracts;
 using System.Net.Http.Json;
 
 namespace Registration
@@ -50,11 +52,10 @@ namespace Registration
             Console.Write("Konfirmasi password: ");
             string confirmPassword = Console.ReadLine();
 
-            if (password != confirmPassword)
-            {
-                Console.WriteLine("Password tidak sesuai.");
-                return;
-            }
+            Contract.Requires<ArgumentException>(!string.IsNullOrEmpty(username), "Username cannot be empty.");
+            Contract.Requires<ArgumentException>(!string.IsNullOrEmpty(password), "Password cannot be empty.");
+            Contract.Requires<ArgumentException>(!string.IsNullOrEmpty(confirmPassword), "Confirmation password cannot be empty.");
+            Contract.Requires<ArgumentException>(password == confirmPassword, "Password and confirmation password must match.");
 
             Console.WriteLine("Pilih tipe registrasi:");
             Console.WriteLine("1. Default");
@@ -62,11 +63,7 @@ namespace Registration
             Console.Write("Masukan tipe registrasi(1/2): ");
             string registrationTypeInput = Console.ReadLine();
 
-            if (!Enum.TryParse(registrationTypeInput, out RegistrationType registrationType))
-            {
-                Console.WriteLine("pilihan salah, coba lagi..");
-                return;
-            }
+            Contract.Requires<ArgumentException>(Enum.TryParse(registrationTypeInput, out RegistrationType registrationType), "Invalid registration type.");
 
             // Perform additional validation if needed
 
@@ -95,16 +92,9 @@ namespace Registration
 
                 var response = client.PostAsJsonAsync("https://api.example.com/register", registrationData).Result;
 
-                if (response.IsSuccessStatusCode)
-                {
-                    // Registration successful
-                    return true;
-                }
-                else
-                {
-                    // Registration failed
-                    return false;
-                }
+                Contract.Ensures(Contract.Result<bool>() == response.IsSuccessStatusCode);
+
+                return response.IsSuccessStatusCode;
             }
         }
     }
