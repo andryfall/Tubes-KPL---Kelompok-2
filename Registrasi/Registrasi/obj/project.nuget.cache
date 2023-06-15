@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6jU6u4LHxeWw5R5vQbYgm+fGDGeDsS/NLLW8RoFU1LH6tsv7oNkdjS6bNy1UXcu1Os87ftaAhN4LAhj5sRvrIg==",
+  "dgSpecHash": "NWydj79ngS2ZxcBtzwg034bmk9t18SEB/Gk2D5R0FTp+U8+a3gfRmYb2WAR2GuRtqSGlHSgkb3Vvz5QLMv0iNg==",
   "success": true,
   "projectFilePath": "D:\\Tubes-KPL---Kelompok-2\\Registrasi\\Registrasi\\Registrasi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Reyhan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\Reyhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
