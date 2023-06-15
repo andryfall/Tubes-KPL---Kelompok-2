@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using Registration;
 
 namespace WindowsFormsApp1
 {
@@ -16,6 +17,9 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            label1.Text = "username";
+            label2.Text = "password";
+            label3.Text = "password";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -43,7 +47,7 @@ namespace WindowsFormsApp1
             String username = textBox1.Text;
             String password = textBox2.Text;
             String password2 = textBox3.Text;
-            if (password != confirmPassword)
+            if (password != password2)
             {
                 MessageBox.Show("Password tidak sesuai.");
                 return;
