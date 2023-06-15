@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\testubes kpl\\testubes kpl\\testubes kpl.csproj",
+      "projectUniqueName": "D:\\Tubes-KPL---Kelompok-2\\testubes kpl\\testubes kpl\\testubes kpl.csproj",
       "projectName": "testubes kpl",
-      "projectPath": "D:\\testubes kpl\\testubes kpl\\testubes kpl.csproj",
+      "projectPath": "D:\\Tubes-KPL---Kelompok-2\\testubes kpl\\testubes kpl\\testubes kpl.csproj",
       "packagesPath": "C:\\Users\\Reyhan\\.nuget\\packages\\",
-      "outputPath": "D:\\testubes kpl\\testubes kpl\\obj\\",
+      "outputPath": "D:\\Tubes-KPL---Kelompok-2\\testubes kpl\\testubes kpl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Reyhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

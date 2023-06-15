@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Registrasi",
+      "appliesTo": "Registrasi/Registrasi.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Registrasi",
+      "appliesTo": "Registrasi/Registrasi.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-RegistrasiTestsregister",
+      "appliesTo": "Registrasi/RegistrasiTestsregister/RegistrasiTestsregister.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
