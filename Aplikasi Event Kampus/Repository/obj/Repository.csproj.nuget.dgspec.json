@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj",
+        "projectName": "daftarEventLibraries",
+        "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj",
+        "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj": {
+                "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

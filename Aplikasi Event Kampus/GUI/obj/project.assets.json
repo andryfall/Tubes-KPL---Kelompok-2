@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "daftarEventLibraries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/daftarEventLibraries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/daftarEventLibraries.dll": {}
+        }
+      },
+      "Function/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Repository": "1.0.0",
+          "daftarEventLibraries": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Function.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Function.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "daftarEventLibraries": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "daftarEventLibraries/1.0.0": {
+      "type": "project",
+      "path": "../daftarEventLibraries/daftarEventLibraries.csproj",
+      "msbuildProject": "../daftarEventLibraries/daftarEventLibraries.csproj"
+    },
+    "Function/1.0.0": {
+      "type": "project",
+      "path": "../Function/Function.csproj",
+      "msbuildProject": "../Function/Function.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Function >= 1.0.0",
+      "Repository >= 1.0.0",
+      "daftarEventLibraries >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andry\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\GUI\\GUI.csproj",
+      "projectName": "GUI",
+      "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\GUI\\GUI.csproj",
+      "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\GUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj": {
+              "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\daftarEventLibraries\\daftarEventLibraries.csproj"
+            },
+            "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Function\\Function.csproj": {
+              "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Function\\Function.csproj"
+            },
+            "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\andry\\Documents\\GitHub\\Tubes-KPL---Kelompok-2\\Aplikasi Event Kampus\\Repository\\Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

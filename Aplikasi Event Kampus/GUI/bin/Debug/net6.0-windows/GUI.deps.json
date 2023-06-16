@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GUI/1.0.0": {
+        "dependencies": {
+          "Function": "1.0.0",
+          "Repository": "1.0.0",
+          "daftarEventLibraries": "1.0.0"
+        },
+        "runtime": {
+          "GUI.dll": {}
+        }
+      },
+      "daftarEventLibraries/1.0.0": {
+        "runtime": {
+          "daftarEventLibraries.dll": {}
+        }
+      },
+      "Function/1.0.0": {
+        "dependencies": {
+          "Repository": "1.0.0",
+          "daftarEventLibraries": "1.0.0"
+        },
+        "runtime": {
+          "Function.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "daftarEventLibraries": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "daftarEventLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

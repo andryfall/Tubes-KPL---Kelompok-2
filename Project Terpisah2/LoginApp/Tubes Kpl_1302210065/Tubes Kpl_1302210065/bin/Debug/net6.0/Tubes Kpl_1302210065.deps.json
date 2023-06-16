@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tubes Kpl_1302210065/1.0.0": {
+        "runtime": {
+          "Tubes Kpl_1302210065.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tubes Kpl_1302210065/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
