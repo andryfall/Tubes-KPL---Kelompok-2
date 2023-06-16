@@ -1,0 +1,81 @@
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.deps.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.runtimeconfig.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.exe
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.exe
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.Form1.resources
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\bin\Debug\net6.0-windows\FR3_MuhammadRafaEkaPramoedya_1302210123.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.Form1.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Function.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Function.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Repository.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Repository.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Repository.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Function.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Function.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Repository.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Function.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\Repository.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.searchEvent.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.Homepage.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI.myEvents.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\daftarEventLibraries.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\bin\Debug\net6.0-windows\daftarEventLibraries.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\WindowsFormsApp1.Registration.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\WindowsFormsApp1.Login.resources
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Aplikasi Event Kampus\GUI\obj\Debug\net6.0-windows\GUI3.Share.resources

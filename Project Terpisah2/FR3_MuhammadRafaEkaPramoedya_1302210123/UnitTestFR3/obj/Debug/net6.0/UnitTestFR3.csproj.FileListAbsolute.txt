@@ -1,0 +1,315 @@
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.deps.json
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.runtimeconfig.json
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.exe
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.exe
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.deps.json
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.runtimeconfig.json
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.pdb
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.pdb
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.AssemblyReference.cache
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfoInputs.cache
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfo.cs
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CoreCompileInputs.cache
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CopyComplete
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\refint\UnitTestFR3.dll
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.pdb
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.genruntimeconfig.cache
+D:\TPMOD7\Tubes-KPL---Kelompok-2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\ref\UnitTestFR3.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.deps.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.runtimeconfig.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.exe
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.exe
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.deps.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.runtimeconfig.json
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.AssemblyReference.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfoInputs.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfo.cs
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CoreCompileInputs.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CopyComplete
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\refint\UnitTestFR3.dll
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.pdb
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.genruntimeconfig.cache
+D:\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\ref\UnitTestFR3.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\testhost.exe
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.deps.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.runtimeconfig.json
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\UnitTestFR3.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\FR3_MuhammadRafaEkaPramoedya_1302210123.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.AssemblyReference.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfoInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.AssemblyInfo.cs
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CoreCompileInputs.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.csproj.CopyComplete
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\refint\UnitTestFR3.dll
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.pdb
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\UnitTestFR3.genruntimeconfig.cache
+C:\Users\andry\Documents\GitHub\Tubes-KPL---Kelompok-2\Project Terpisah2\FR3_MuhammadRafaEkaPramoedya_1302210123\UnitTestFR3\obj\Debug\net6.0\ref\UnitTestFR3.dll

@@ -1,0 +1,5 @@
+D:\testubes kpl\testubes kpl\obj\Debug\net7.0\testubes kpl.csproj.AssemblyReference.cache
+D:\testubes kpl\testubes kpl\obj\Debug\net7.0\testubes kpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\testubes kpl\testubes kpl\obj\Debug\net7.0\testubes kpl.AssemblyInfoInputs.cache
+D:\testubes kpl\testubes kpl\obj\Debug\net7.0\testubes kpl.AssemblyInfo.cs
+D:\testubes kpl\testubes kpl\obj\Debug\net7.0\testubes kpl.csproj.CoreCompileInputs.cache
