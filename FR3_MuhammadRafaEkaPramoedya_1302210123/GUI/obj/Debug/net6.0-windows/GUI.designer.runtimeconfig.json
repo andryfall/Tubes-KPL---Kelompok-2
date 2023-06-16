@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\MSI GF65\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\MSI GF65\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\Reyhan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Reyhan\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
